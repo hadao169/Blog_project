@@ -42,4 +42,24 @@ Link to the repository of Blog Front-End
 - In addition, I add the "add" functionality where you can add a new blog. By default, add blog form is not shown until you click "add blog" button. You can also click "cancel" button to hide the "add blog form"
   ![alt text](image-5.png)
 
+# Technologies
 
+## Front-end
+
+- Languages:
+  - HTML
+  - CSS
+  - JavaScript
+- Framework:
+  - ReactJs
+
+## Back-end
+
+- Language:
+  - JavaScript
+  - Node.js
+- Framework:
+  - Express.js
+  - Mongoose
+- Database:
+  - MongoDB
