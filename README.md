@@ -16,10 +16,11 @@ Link to the repository of Blog Front-End
 - Expressing Ideas and Opinions
 - Educating and Informing
 
-## New features:
+## Some features:
 
 - User administration
 - Token authentication
+- Database to store data
 
 ## Functionalities:
 
@@ -28,6 +29,8 @@ Link to the repository of Blog Front-End
 
 - If the user is logged-in, the name of the user and a list of blogs is shown.
   ![alt text](image-1.png)
+
+  - Note: Because I'm using jwt authentication, so please use this account to sign in (username: hadao4, password:3432). I'm trying to implement user registration
 
 - Failed login can show the following notification
   ![alt text](image-3.png)
@@ -41,6 +44,12 @@ Link to the repository of Blog Front-End
 
 - In addition, I add the "add" functionality where you can add a new blog. By default, add blog form is not shown until you click "add blog" button. You can also click "cancel" button to hide the "add blog form"
   ![alt text](image-5.png)
+
+# Future extension:
+
+- User registration
+- Improve responsive design
+- Search blog with a key
 
 # Technologies
 
