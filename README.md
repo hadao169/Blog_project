@@ -7,6 +7,7 @@ https://blog-project-1-i8hi.onrender.com
 ![alt text](image-1.png)
 
 Link to the repository of Blog Front-End
+https://github.com/hadao169/Blog_frontend
 
 # Project Description
 
@@ -27,7 +28,7 @@ Link to the repository of Blog Front-End
 - If a user is not logged in, only the login form is visible.
   ![alt text](image.png)
 
-- If the user is logged-in, the name of the user and a list of blogs is shown.
+- If the user is logged-in, the name of the user and a list of blogs is shown and the token which is created will be save to browser local storage
   ![alt text](image-1.png)
 
   - Note: Because I'm using jwt authentication, so please use this account to sign in (username: hadao4, password:3432). I'm trying to implement user registration
