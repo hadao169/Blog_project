@@ -2,6 +2,9 @@
 
 Link to website
 https://blog-project-1-i8hi.onrender.com
+You can sign in with this account: 
+ - username: admin@admin.com
+ - password: admin123
 ![alt text](image.png)
 
 ![alt text](image-1.png)
